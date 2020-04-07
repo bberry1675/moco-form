@@ -1,0 +1,9 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "php": "^7.2.0",
+        "gd": "*",
+        "mbstring": "*",
+        "xml": "*"
+    }
+}
